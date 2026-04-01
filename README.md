@@ -1,4 +1,4 @@
-# Secure Campus Network Architecture Lab
+# 🔐Secure Campus Network Architecture Lab
 
 ## 📌 Overview
 This repository contains a Cisco Packet Tracer laboratory demonstrating a secure, segmented campus network. The primary objective of this project is to implement robust Layer 2 and Layer 3 security controls to mitigate common Local Area Network (LAN) attacks, such as VLAN hopping, MAC flooding, DHCP starvation, and Spanning Tree manipulation.
