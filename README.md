@@ -6,6 +6,7 @@ This repository contains a Cisco Packet Tracer laboratory demonstrating a secure
 This lab serves as a practical demonstration of secure network design principles and defensive configurations required in modern enterprise environments.
 
 ## 🏗️ Network Topology
+![Network Topology](Topology.png)
 The network utilizes a classic hierarchical design:
 * **Core/Distribution Layer:** 1x Cisco 3650 Multilayer Switch
 * **Access Layer:** 2x Cisco 2960 Switches
